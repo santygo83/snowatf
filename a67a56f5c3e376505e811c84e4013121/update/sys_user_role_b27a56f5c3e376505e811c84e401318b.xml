@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default admin role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>ieFymztN4Z0833sE7ymSAJfjUaJO2USNwCoOr7LHRmY=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_442667_ci_cd_d_0.admin</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-11 14:25:12</sys_created_on>
+        <sys_id>b27a56f5c3e376505e811c84e401318b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_442667_ci_cd_d_0.admin</sys_name>
+        <sys_package display_value="CI/CD Demo App" source="x_442667_ci_cd_d_0">a67a56f5c3e376505e811c84e4013121</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CI/CD Demo App">a67a56f5c3e376505e811c84e4013121</sys_scope>
+        <sys_update_name>sys_user_role_b27a56f5c3e376505e811c84e401318b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-11 14:25:12</sys_updated_on>
+    </sys_user_role>
+</record_update>
