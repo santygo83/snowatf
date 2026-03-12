@@ -17,10 +17,6 @@ jobs:
 
       - name: Trigger ServiceNow ATF Test Suite
         run: |
-          curl -X POST https://nowlearning-nlinst03883244-86a6y-0001.lab.service-now.com/api/sn_cicd/testsuite/run \
+          curl -X POST https://nowlearning-nlinst03883244-86a6y-0001.lab.service-now.com/api/sn_cicd/testsuite/run?test_suite_sys_id=106f5a35c32776505e811c84e401311c \
           -u admin:S1ttu@12 \
-          -H "Content-Type: application/json" \
-          -d '{
-                "test_suite_sys_id": "106f5a35c32776505e811c84e401311c"
-              }'
-
+          -H "Content-Type: application/json"
