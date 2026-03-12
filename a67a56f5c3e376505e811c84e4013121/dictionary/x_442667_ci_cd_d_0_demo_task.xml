@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="84da5639c3e376505e811c84e401310f" label="Demo Task" max_length="40" name="x_442667_ci_cd_d_0_demo_task" type="collection">
-        <element label="data2" max_length="40" name="data2" type="string"/>
+        <element label="data22" max_length="40" name="data2" type="string"/>
         <element label="Number" max_length="40" name="number" type="string"/>
         <element label="short desc" max_length="40" name="short_desc" type="string"/>
     </element>
