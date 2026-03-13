@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run">
+    <sys_atf_schedule_run action="DELETE">
+        <active>true</active>
+        <browser_name>any</browser_name>
+        <browser_version/>
+        <description>Run suite 'CI/CD Test Suite' on a system with this configuration:
+Any browser on any version
+Any operating system on any version</description>
+        <order>100</order>
+        <os_name>any</os_name>
+        <os_version/>
+        <schedule display_value="CICD adhoc schedule">6f7ab78ae0a332107f44e12a437669fb</schedule>
+        <sys_class_name>sys_atf_schedule_run</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-12 16:03:10</sys_created_on>
+        <sys_id>ab7ab78ae0a332107f44e12a437669ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="CI/CD Demo App" source="x_442667_ci_cd_d_0">a67a56f5c3e376505e811c84e4013121</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CI/CD Demo App">a67a56f5c3e376505e811c84e4013121</sys_scope>
+        <sys_update_name>sys_atf_schedule_run_ab7ab78ae0a332107f44e12a437669ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-12 16:03:10</sys_updated_on>
+        <test_suite display_value="CI/CD Test Suite">106f5a35c32776505e811c84e401311c</test_suite>
+        <watch_list/>
+    </sys_atf_schedule_run>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CI/CD Demo App">a67a56f5c3e376505e811c84e4013121</application>
+        <file_path/>
+        <instance_id>bf46fbb5471b7e908fac02ee536d43be</instance_id>
+        <instance_name>nowlearning-nlinst03883244-86a6y-0001</instance_name>
+        <name>sys_atf_schedule_run_ab7ab78ae0a332107f44e12a437669ff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run"><sys_atf_schedule_run action="INSERT_OR_UPDATE"><active>true</active><browser_name>any</browser_name><browser_version/><description>Run suite 'CI/CD Test Suite' on a system with this configuration:
+Any browser on any version
+Any operating system on any version</description><order>100</order><os_name>any</os_name><os_version/><schedule display_value="CICD adhoc schedule">6f7ab78ae0a332107f44e12a437669fb</schedule><sys_class_name>sys_atf_schedule_run</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-03-12 16:03:10</sys_created_on><sys_id>ab7ab78ae0a332107f44e12a437669ff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>100</sys_name><sys_package display_value="CI/CD Demo App" source="x_442667_ci_cd_d_0">a67a56f5c3e376505e811c84e4013121</sys_package><sys_policy/><sys_scope display_value="CI/CD Demo App">a67a56f5c3e376505e811c84e4013121</sys_scope><sys_update_name>sys_atf_schedule_run_ab7ab78ae0a332107f44e12a437669ff</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-03-12 16:03:10</sys_updated_on><test_suite display_value="CI/CD Test Suite">106f5a35c32776505e811c84e401311c</test_suite><watch_list/></sys_atf_schedule_run></record_update>]]></payload>
+        <payload_hash>463131896</payload_hash>
+        <record_name>100</record_name>
+        <reverted_from/>
+        <source>6dd12f0ee02332107f44e12a43766990</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-12 16:03:10</sys_created_on>
+        <sys_id>e37af78ae0a332107f44e12a437669da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ce2c99f030000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-12 16:03:10</sys_updated_on>
+        <type>Scheduled Suite Run</type>
+        <update_guid>a77af78a59a332102c692fe17670bbd9</update_guid>
+        <update_guid_history>a77af78a59a332102c692fe17670bbd9:463131896</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-12 16:03:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_schedule_run">sys_atf_schedule_run</sys_db_object>
+        <sys_id>2b56ffe27d064e9cb0472522615436a1</sys_id>
+        <sys_metadata>ab7ab78ae0a332107f44e12a437669ff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="CI/CD Demo App" source="x_442667_ci_cd_d_0">a67a56f5c3e376505e811c84e4013121</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CI/CD Demo App">a67a56f5c3e376505e811c84e4013121</sys_scope>
+        <sys_scope_delete display_value="">90127843e4b74abc9e34516553dce790</sys_scope_delete>
+        <sys_update_name>sys_atf_schedule_run_ab7ab78ae0a332107f44e12a437669ff</sys_update_name>
+        <sys_update_version display_value="sys_atf_schedule_run_ab7ab78ae0a332107f44e12a437669ff">e37af78ae0a332107f44e12a437669da</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-12 16:03:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
