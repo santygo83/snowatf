@@ -12,7 +12,7 @@ jobs:
 
     steps:
 
-      - name: Trigger ServiceNow ATF Test Suite
+      - name: Trigger ServiceNow ATF Test Suite1
         run: |
           curl -X POST https://dev400373.service-now.com/api/sn_cicd/testsuite/run?test_suite_sys_id=106f5a35c32776505e811c84e401311c \
           -u admin_santosh:S1ttu@12 \
