@@ -1,10 +1,10 @@
-name: Run ServiceNow ATF
+name: Run ServiceNow ATF_new
 on:
   push:
     branches:
       - main
 jobs:
-  run-atf-tests:
+  run-atf-tests_new:
     runs-on: ubuntu-latest
     environment: Devenv
     steps:
