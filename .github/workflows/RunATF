@@ -6,6 +6,7 @@ on:
 jobs:
   run-atf-tests:
     runs-on: ubuntu-latest
+    environment: Devenv
     steps:
       - name: Trigger ServiceNow ATF Test Suite
         env:
